@@ -56,7 +56,7 @@ If this repo helps you, please consider citing our work:
 
 
 ```shell
-@InProceedings{Zhang_2024_CVPR,
+@InProceedings{DPU,
     author    = {Zhang, Jiancheng and Zeng, Haijin and Cao, Jiezhang and Chen, Yongyong and Yu, Dengxiu and Zhao, Yin-Ping},
     title     = {Dual Prior Unfolding for Snapshot Compressive Imaging},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
