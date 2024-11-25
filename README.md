@@ -1,15 +1,15 @@
 # DPU
 This is a repo for our work: "**[Dual Prior Unfolding for Snapshot Compressive Imaging](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)**".
 
-#### News
+### News
 Our work has been accepted by CVPR, codes and results are coming soon (July or August).
 
 The codes and pre-trained weights have been released. More details and instructions will be continuously updated.
 
-#### Pre-trained weights
-Download pre-trained weights from [Github](https:https://github.com/ZhangJC-2k/Pre-trained-Models/tree/main/DPU_Pretrain_Weights) or [Baidu disk](https://pan.baidu.com/s/1ehorAEE169sSiAzqML9P2g?pwd=28tn) then put them into the corresponding folder "DPU/Checkpoint_pretrain/" folder.
+### Pre-trained weights
+Download pre-trained weights from [Github](https://github.com/ZhangJC-2k/Pre-trained-Models/tree/main/DPU_Pretrain_Weights) or [Baidu disk](https://pan.baidu.com/s/1ehorAEE169sSiAzqML9P2g?pwd=28tn) then put them into the corresponding folder "DPU/Checkpoint_pretrain/" folder.
 
-#### Results
+### Results
 The simulated and real results of DPU are available [here](https://pan.baidu.com/s/1xtv7YotNPS0lf7dcEWanFw?pwd=zuir).
 
 ### 1. Environment Requirements
