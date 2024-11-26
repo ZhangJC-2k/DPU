@@ -11,7 +11,11 @@ Our work has been accepted by CVPR, codes and results are coming soon (July or A
 The codes and pre-trained weights have been released. More details and instructions will be continuously updated.
 
 ### Pre-trained weights
-Download pre-trained weights from [Github](https://github.com/ZhangJC-2k/Pre-trained-Models/tree/main/DPU_Pretrain_Weights) or [Baidu disk](https://pan.baidu.com/s/1ehorAEE169sSiAzqML9P2g?pwd=28tn) then put them into the corresponding folder "DPU/Checkpoint_pretrain/" folder.
+Download pre-trained weights from [Github](https://github.com/ZhangJC-2k/Pre-trained-Models/tree/main/DPU_Pretrain_Weights) or [Baidu disk](https://pan.baidu.com/s/1ehorAEE169sSiAzqML9P2g?pwd=28tn) then put them into the corresponding folder "DPU/Checkpoint_pretrain/" folder as the following form:
+
+	|--Checkpoint_pretrain
+        |--model_5stg.pkl
+        |--model_9stg.pkl
 
 ### Results
 The simulated and real results of DPU are available [here](https://pan.baidu.com/s/1xtv7YotNPS0lf7dcEWanFw?pwd=zuir).
