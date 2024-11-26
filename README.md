@@ -16,8 +16,12 @@ Download pre-trained weights from [Github](https://github.com/ZhangJC-2k/Pre-tra
 	|--Checkpoint_pretrain
         |--model_5stg.pkl
         |--model_9stg.pkl
-
-### Results
+For testing pre-trained models, run the following command
+```
+python Test_pretrain.py
+```
+Then run 'cal_psnr_ssim.m' in Matlab to get the performance metrics.
+### Simulated and Real Results
 The simulated and real results of DPU are available [here](https://pan.baidu.com/s/1xtv7YotNPS0lf7dcEWanFw?pwd=zuir).
 
 ### 1. Environment Requirements
@@ -58,10 +62,6 @@ Then run the following command
 ```shell
 cd DPU
 python Test.py
-```
-For testing pre-trained models, run the following command
-```
-python Test_pretrain.py
 ```
 Finally, run 'cal_psnr_ssim.m' in Matlab to get the performance metrics.
 
