@@ -1,4 +1,8 @@
 # DPU
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-prior-unfolding-for-snapshot-compressive/spectral-reconstruction-on-cave)](https://paperswithcode.com/sota/spectral-reconstruction-on-cave?p=dual-prior-unfolding-for-snapshot-compressive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-prior-unfolding-for-snapshot-compressive/spectral-reconstruction-on-kaist)](https://paperswithcode.com/sota/spectral-reconstruction-on-kaist?p=dual-prior-unfolding-for-snapshot-compressive)
+
 This is a repo for our work: "**[Dual Prior Unfolding for Snapshot Compressive Imaging](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)**".
 
 ### News
