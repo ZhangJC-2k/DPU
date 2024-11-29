@@ -1,5 +1,6 @@
 # DPU
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-prior-unfolding-for-snapshot-compressive/spectral-reconstruction-on-real-hsi)](https://paperswithcode.com/sota/spectral-reconstruction-on-real-hsi?p=dual-prior-unfolding-for-snapshot-compressive)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-prior-unfolding-for-snapshot-compressive/spectral-reconstruction-on-cave)](https://paperswithcode.com/sota/spectral-reconstruction-on-cave?p=dual-prior-unfolding-for-snapshot-compressive)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-prior-unfolding-for-snapshot-compressive/spectral-reconstruction-on-kaist)](https://paperswithcode.com/sota/spectral-reconstruction-on-kaist?p=dual-prior-unfolding-for-snapshot-compressive)
 
